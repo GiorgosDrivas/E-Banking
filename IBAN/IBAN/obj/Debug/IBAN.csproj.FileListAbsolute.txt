@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Projects\IBAN\IBAN\bin\Debug\IBAN.exe.config
+C:\Users\user\Desktop\Projects\IBAN\IBAN\bin\Debug\IBAN.exe
+C:\Users\user\Desktop\Projects\IBAN\IBAN\bin\Debug\IBAN.pdb
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.Properties.Resources.resources
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.exe
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.pdb
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.Withdraw.resources
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.Login.resources
+C:\Users\user\Desktop\Projects\IBAN\IBAN\obj\Debug\IBAN.Main.resources
